@@ -3,7 +3,7 @@ This repo provides documentation and  scripts to help implement a the zero-touch
 
 ![](./images/iotedge-tpm2cloud.png)
 
-**DISCLAIMER**: *this documentation has educational purposes only, it should not be considered as a best practice and it is not compliant with any standard. The provided scripts are not supported by Microsoft and should not be used in production.*
+**DISCLAIMER**: *this documentation has educational purposes only and it should not be considered as a best practice. The provided scripts are not supported by Microsoft and should not be used in production. This is just a personal repo: any views or opinions represented in this repo are personal, belong to the author and do not represent the views of the author's employer.*
 
 ## Getting Started
 Grab the scripts from this repo:
