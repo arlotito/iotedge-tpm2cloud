@@ -127,8 +127,7 @@ NOTE:
 
     The LDevIDs key is stored in the TPM in the owner accessible Storage Hierarchy and then linked to the PKCS11 store (used by the Azure Identity Service).
     The LDevId certificate is stored in the file system. 
-    TODO: what about the certificate's CN? Should it be a Serial Number? Or a string/hash including platform's info such as model, version, ...?
-    Or maybe the [machine-id](https://www.freedesktop.org/software/systemd/man/machine-id.html)?
+    Several options for the certificate's CN: a Serial Number, a string/hash including platform's info (such as model, version), a [machine-id](https://www.freedesktop.org/software/systemd/man/machine-id.html).
 
     | **Item**          | **Handle**    | **Hierarchy**                 | **Notes**   |
     | :---              | :---          | :---                          | :---              |
