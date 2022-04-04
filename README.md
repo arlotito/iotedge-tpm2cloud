@@ -310,13 +310,12 @@ sudo iotedge system reprovision
 ## Resources
 * [Zero-touch provisioning blueprint](https://azure.microsoft.com/en-us/blog/the-blueprint-to-securely-solve-the-elusive-zerotouch-provisioning-of-iot-devices-at-scale/)
 * [Azure IoT Identity Service](https://azure.github.io/iot-identity-service/)
-* [802.1AR](https://1.ieee802.org/security/802-1ar/)
-* [RFC5280](https://datatracker.ietf.org/doc/html/rfc5280)
-* [TCG TPM2 Software Stack](https://github.com/tpm2-software)
 * [Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
+* [Secure Device Identity - 802.1AR](https://1.ieee802.org/security/802-1ar/)
+* [x.509 Certificate Profile - RFC5280](https://datatracker.ietf.org/doc/html/rfc5280)
+* [TCG TPM2 Software Stack](https://github.com/tpm2-software)
 * [Enrollment over Secure Transport (EST) - IETF RFC 7030](https://datatracker.ietf.org/doc/html/rfc7030)
-* [How does TPM2.0 work?](https://google.github.io/tpm-js/)
-* [Let's Trust TPM2 module](https://letstrust.de/)
-* [machine-id](https://www.freedesktop.org/software/systemd/man/machine-id.html)
+* [TPM-JS: experiment with a sw TPM in a browser](https://google.github.io/tpm-js/)
+* [machine-id - Local Machine ID](https://www.freedesktop.org/software/systemd/man/machine-id.html)
 
 
