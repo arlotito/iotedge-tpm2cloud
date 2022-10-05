@@ -1,5 +1,6 @@
 # iotedge-tpm2cloud
-This repo is now an Azure Sample: https://github.com/Azure-Samples/iotedge-tpm2cloud 
+This repo is now an Azure Sample: https://github.com/Azure-Samples/iotedge-tpm2cloud
+
 Short link: https://aka.ms/iotedge-tpm2cloud
 
 This repo provides documentation and scripts to help implement the zero-touch provisioning at scale of Azure IoT Edge devices based on [this](https://azure.microsoft.com/en-us/blog/the-blueprint-to-securely-solve-the-elusive-zerotouch-provisioning-of-iot-devices-at-scale/) blueprint, with strong identities securely stored in a TPM2 HSM via the PKCS#11 interface and x509 certificates issued over EST from a public CA such as GlobalSign. 
